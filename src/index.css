@@ -7,13 +7,6 @@ html{
 }
 
 @font-face {
-  font-family: 'Din';
-  src: url('/src/assets/fonts/D-DIN.otf') format('truetype');
-  font-style: normal;
-  font-weight: normal;
-}
-
-@font-face {
   font-family: 'DinM';
   src: url('/src/assets/fonts/DINM.ttf') format('truetype');
   font-style: normal;
