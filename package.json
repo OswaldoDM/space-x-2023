@@ -1,5 +1,6 @@
 {
   "name": "new-space",
+  "homepage": "https://oswaldodm.github.io/space-x-2023/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
