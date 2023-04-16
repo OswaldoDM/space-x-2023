@@ -20,6 +20,15 @@ html{
   font-weight: normal;
 }
 
+@font-face {
+  font-family: 'Blanka';
+  src: url('assets/fonts/Blanka.otf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+.font-blanka { font-family: 'Blanka'; }
+
 .font-dinbold{
   font-family: DinBold, Arial, Helvetica, sans-serif;
 }
