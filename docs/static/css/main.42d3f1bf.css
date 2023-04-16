@@ -619,7 +619,7 @@ html {
   font-family: DinM;
   font-style: normal;
   font-weight: 400;
-  src: url(./space-x-2023/static/media/DINM.ac50005d97791c65cf3e.ttf) format("truetype");
+  src: url(./static/media/DINM.ac50005d97791c65cf3e.ttf) format("truetype");
 }
 @font-face {
   font-family: DinBold;
