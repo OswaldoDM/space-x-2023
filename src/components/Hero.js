@@ -6,7 +6,7 @@ export function Hero() {
     return(
     <>
     <section className=
-    {`bg-[url('./assets/hero.webp')] bg-no-repeat  
+    {`bg-[url('assets/hero.webp')] bg-no-repeat  
     bg-cover bg-left-top xl:bg-center 
     h-[690px] md:h-[768px] xl:h-[750px] 
     selection:text-black selection:bg-white
