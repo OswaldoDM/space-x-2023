@@ -619,13 +619,13 @@ html {
   font-family: DinM;
   font-style: normal;
   font-weight: 400;
-  src: url(./static/media/DINM.ac50005d97791c65cf3e.ttf) format("truetype");
+  src: url(https://oswaldodm.github.io/space-x-2023/static/media/DINM.ac50005d97791c65cf3e.ttf) format("truetype");
 }
 @font-face {
   font-family: DinBold;
   font-style: normal;
   font-weight: 400;
-  src: url(./static/media/D-DIN-Bold.7bb4b1a4a4621668d12a.otf)
+  src: url(https://oswaldodm.github.io/space-x-2023/static/media/D-DIN-Bold.7bb4b1a4a4621668d12a.otf)
     format("truetype");
 }
 .font-dinbold {
