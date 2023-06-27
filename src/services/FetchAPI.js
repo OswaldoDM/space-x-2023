@@ -3,7 +3,8 @@ export async function getAllLaunches(){
 
     try {
         const resp = await fetch(`https://api.spacexdata.com/v3/launches`);
-        const data = await resp.json();   
+        const data = await resp.json(); 
+        
         
         const dataElements = data.map( e => {
         
@@ -17,8 +18,10 @@ export async function getAllLaunches(){
                 video: e.links.video_link,
                 patch: e.links.mission_patch,
                 
-            }             
-        })
+            } 
+            
+            
+        })   
     
         return dataElements;
         

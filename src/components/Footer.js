@@ -16,13 +16,13 @@ py-10
         <div className="bg-white h-[140px] w-[1px]"></div>
 
         <a 
-                href= '#'
+                href= 'https://oswaldodm.github.io/ODM-portfolio/'
                 target='_blank' 
                 className=
                 {`text-white text-lg font-dinbold 
                 border border-white
                 py-3 px-16 my-10  
-                hover:text-black hvr-sweep-to-top
+                hover:text-black hvr-sweep-to-right
                 `}>
                     Portfolio
         </a>
@@ -39,7 +39,7 @@ py-10
             </a>
 
             <a 
-            href="https://github.com/OswaldoDM" target="_blank"  
+            href="https://github.com/OswaldoDM/space-x-2023" target="_blank"  
             className="text-white text-xs font-dinbold border-effect">
                 GITHUB
             </a>            
